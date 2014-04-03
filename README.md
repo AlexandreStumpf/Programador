@@ -1,5 +1,5 @@
 
-Faça fork do repositório codifique e faça um pull request.
+Faça fork do repositório. Cada diretório (backend,frontend) contem um README com as descrição da tarefa. Codifique e faça um pull request.
 
 
 ## Conhecimentos
