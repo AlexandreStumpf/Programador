@@ -2,7 +2,6 @@
 /**
  * Script inicial para utilizar os Objetos criados
  * 
- * @copyright beonpop.com
  */
 
 if (!file_exists("vendor")) {
