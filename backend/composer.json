@@ -1,6 +1,6 @@
 {
-    "name": "/beonpop/programador",
-    "homepage": "https://github.com/beonpop/Programador",
+    "name": "/AlexandreStumpf/programador",
+    "homepage": "https://github.com/AlexandreStumpf/Programador",
     "require": {
         "php": ">=5.4.0"
     },
